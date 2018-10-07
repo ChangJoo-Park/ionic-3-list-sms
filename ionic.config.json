@@ -1,0 +1,7 @@
+{
+  "name": "sms-testing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
